@@ -2,6 +2,6 @@ function index(){
 	console.log("index");
 }
 
-function login(){
+function logout(){
 	console.log("login");
 }
